@@ -24,6 +24,7 @@ The main functionality is defined in `Interpreter.rkt`, which provides an `inter
 
 ## File Structure
 
+```
 C-like-interpreter-racket/
 │
 ├── Interpreter.rkt          # Main interpreter logic and evaluation functions
@@ -41,6 +42,7 @@ C-like-interpreter-racket/
 │
 ├── README.md
 └── LICENSE (optional)
+```
 
 ---
 
